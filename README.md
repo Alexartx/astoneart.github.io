@@ -1,2 +1,2 @@
-- [Privacy Policy](PRIVACY-POLICY.md)
+- [Privacy Policy](PRIVACY-POLICY)
 # astoneart.github.io
